@@ -5,3 +5,7 @@ tour.golang.org
 https://github.com/golang/go/wiki#getting-started-with-go
 https://github.com/fatih/vim-go
 
+<h3>Useful Commands</h3>
+<ul>
+<li>go run [filename1] [filename2]... [filenameN] </br> 
+
