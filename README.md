@@ -5,3 +5,4 @@ Learning Go from scratch
 3. Strings
 4. Booleans
 5. Variables
+6. Variables2
