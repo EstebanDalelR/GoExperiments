@@ -6,3 +6,5 @@ Learning Go from scratch
 4. Booleans
 5. Variables
 6. Variables2
+7. Variables3
+
