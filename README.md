@@ -8,3 +8,6 @@ Learning Go from scratch
 6. Variables2
 7. Variables3
 8. Variables4
+9. Variables5
+10. Constants
+11. Constants2
