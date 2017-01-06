@@ -7,4 +7,4 @@ Learning Go from scratch
 5. Variables
 6. Variables2
 7. Variables3
-
+8. Variables4
