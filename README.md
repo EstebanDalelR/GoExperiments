@@ -11,3 +11,5 @@ Learning Go from scratch
 9. Variables5
 10. Constants
 11. Constants2
+12. Input
+13. For
