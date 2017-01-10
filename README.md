@@ -14,3 +14,5 @@ Learning Go from scratch
 12. Input
 13. For
 14. For2
+15. If
+16. Switch
