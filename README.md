@@ -16,3 +16,11 @@ Learning Go from scratch
 14. For2
 15. If
 16. Switch
+17. Arrays
+18. Arrays2
+19. Arrays3
+20. Arrays4
+17. Arrays
+18. Arrays2
+19. Arrays3
+20. Arrays4
