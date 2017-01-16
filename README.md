@@ -29,3 +29,5 @@ Learning Go from scratch
 23. Slices3
 24. Maps
 25. Maps2
+26. Maps3
+27. Maps4
