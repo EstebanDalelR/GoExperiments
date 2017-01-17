@@ -31,3 +31,4 @@ Learning Go from scratch
 25. Maps2
 26. Maps3
 27. Maps4
+28. Maps5
