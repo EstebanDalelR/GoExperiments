@@ -32,3 +32,4 @@ Learning Go from scratch
 26. Maps3
 27. Maps4
 28. Maps5
+29. Functions
