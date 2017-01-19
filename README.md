@@ -33,3 +33,5 @@ Learning Go from scratch
 27. Maps4
 28. Maps5
 29. Functions
+30. Return
+31. Variadic Functions
