@@ -1,37 +1,42 @@
-# GoExperiments
-Learning Go from scratch
-01. Hello world
-02. Numbers
-03. Strings
-04. Booleans
-05. Variables
-06. Variables2
-07. Variables3
-08. Variables4
-09. Variables5
-10. Constants
-11. Constants2
-12. Input
-13. For
-14. For2
-15. If
-16. Switch
-17. Arrays
-18. Arrays2
-19. Arrays3
-20. Arrays4
-17. Arrays
-18. Arrays2
-19. Arrays3
-20. Arrays4
-21. Slices
-22. Slices2
-23. Slices3
-24. Maps
-25. Maps2
-26. Maps3
-27. Maps4
-28. Maps5
-29. Functions
-30. Return
-31. Variadic Functions
+		# GoExperiments
+Learning Go from scratch<br>
+01. Hello world<br>
+02. Numbers <br>
+03. Strings  <br>
+04. Booleans  <br>
+05. Variables <br>
+06. Variables2 <br>
+07. Variables3 <br>
+08. Variables4 <br>
+09. Variables5 <br>
+10. Constants <br>
+11. Constants2 <br>
+12. Input <br>
+13. For <br>
+14. For2 <br>
+15. If <br>
+16. Switch <br>
+17. Arrays <br>
+18. Arrays2 <br>
+19. Arrays3 <br>
+20. Arrays4 <br>
+17. Arrays <br>
+18. Arrays2 <br>
+19. Arrays3 <br>
+20. Arrays4 <br>
+21. Slices <br>
+22. Slices2 <br>
+23. Slices3 <br>
+24. Maps <br>
+25. Maps2 <br>
+26. Maps3 <br>
+27. Maps4 <br>
+28. Maps5 <br>
+29. Functions <br>
+30. Return <br>
+31. Variadic Functions  <br>
+32. Variadic Functions2<br>
+33. Closure<br>
+34. Closure2<br>
+35. Closure3<br>
+36. Recursion<br>
