@@ -40,3 +40,11 @@ Learning Go from scratch<br>
 34. Closure2<br>
 35. Closure3<br>
 36. Recursion<br>
+37. Defer<br>
+38. Panic<br> 
+39. Panic2<br>
+40. Pointers<br>
+41. Pointers2<br>
+42. Pointers3<br>
+43. Structs<br>
+44. Structs2<br>
