@@ -48,3 +48,5 @@ Learning Go from scratch<br>
 42. Pointers3<br>
 43. Structs<br>
 44. Structs2<br>
+45. Methods <br>
+45. Methods <br>
