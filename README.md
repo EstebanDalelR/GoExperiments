@@ -50,3 +50,4 @@ Learning Go from scratch<br>
 44. Structs2<br>
 45. Methods <br>
 45. Methods <br>
+46. Embedded types <br>
