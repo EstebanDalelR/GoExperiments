@@ -24,8 +24,8 @@ Learning Go from scratch<br>
 18. Arrays2 <br>
 19. Arrays3 <br>
 20. Arrays4 <br>
-21. Slices <br>
 22. Slices2 <br>
+21. Slices <br>
 23. Slices3 <br>
 24. Maps <br>
 25. Maps2 <br>
@@ -41,7 +41,7 @@ Learning Go from scratch<br>
 35. Closure3<br>
 36. Recursion<br>
 37. Defer<br>
-38. Panic<br> 
+38. Panic<br>
 39. Panic2<br>
 40. Pointers<br>
 41. Pointers2<br>
@@ -51,3 +51,10 @@ Learning Go from scratch<br>
 45. Methods <br>
 45. Methods <br>
 46. Embedded types <br>
+47. Interfaces <br>
+48. Gorutines<br>
+49. Gorutines 2<br>
+50. Channels <br>
+51. Channels 2<br>
+52. Select<br>
+53. Select 2<br>
