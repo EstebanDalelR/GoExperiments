@@ -1,5 +1,6 @@
 		# GoExperiments
 <h2>Learning Go from scratch<br> </h2>
+<p> Most of what you see here has been taken from https://www.golang-book.com/, although I will mark my own creations. </p>
 <b> 1. Getting Started </b><br>
 <b> 2. Your First Program </b><br>
 01. Hello world<br>
